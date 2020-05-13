@@ -1,4 +1,4 @@
-# Computer-Vision-Project - Eyal S
+# Computer Vision Project - Eyal S
 
 __Computer Vision Project: Video Stabilization, Background Subtraction, Video Matting, Object Tracking__
 
