@@ -12,3 +12,7 @@ This video will only contain the walking person. Saving the extracted person as 
 
 3. Using image matting, placing the walking person from ‘extracted.avi’ in ‘background.jpg’. 
 Saving this video as ‘matted.avi’. The new video file will have a walking person with a static background.
+
+4. Manually selecting the walking person in ‘matted.avi’ and tracking him throughout the video showing 
+a rectangle around him in all frames.
+Saving the video with the rectangle highlight as ‘OUTPUT.avi’.
